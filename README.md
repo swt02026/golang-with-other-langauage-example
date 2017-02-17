@@ -8,3 +8,4 @@ Golang interoperation with other programming Language, like python(use cython)
 4. os : ubuntu 16.04
 
 If you use other distro or other os ,you should modify the makefile by youself.
+Will produce the call_go.so file, it is a importable python module.
