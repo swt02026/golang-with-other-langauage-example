@@ -1,4 +1,4 @@
-# golang-with-other-langauage-example
+# golang-interop-other-langauage-example
 Golang interoperation with other programming Language, like python(use cython)
 
 ## python call golang function with cython
